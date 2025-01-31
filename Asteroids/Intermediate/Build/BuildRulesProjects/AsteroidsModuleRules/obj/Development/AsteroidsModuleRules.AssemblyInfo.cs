@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsteroidsModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3439fa1e939e7aacb7973e5a619ab4097dc8567f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa8355e6544ca70c6cb389ec98aa5fd54c00b6b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsteroidsModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsteroidsModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
