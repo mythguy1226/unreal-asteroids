@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Z:/IGMProfile/Documents/GitHub/unreal-asteroids/Asteroids/Content/Asteroids/Combat/BP_Projectile.uasset",
+				"Z:/IGMProfile/Documents/GitHub/unreal-asteroids/Asteroids/Content/Asteroids/Combat/BP_Asteroid.uasset",
+				"Z:/IGMProfile/Documents/GitHub/unreal-asteroids/Asteroids/Content/Asteroids/General/BP_WrapBounds.uasset",
+				"Z:/IGMProfile/Documents/GitHub/unreal-asteroids/Asteroids/Content/Asteroids/Levels/Asteroids.umap",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Levels/Asteroids.umap",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Player/BP_AsteroidsCharacter.uasset",

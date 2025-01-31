@@ -78,14 +78,14 @@ AAsteroidsGameMode::~AAsteroidsGameMode() {}
 // End Class AAsteroidsGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AAsteroidsGameMode, AAsteroidsGameMode::StaticClass, TEXT("AAsteroidsGameMode"), &Z_Registration_Info_UClass_AAsteroidsGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAsteroidsGameMode), 2312978822U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsGameMode_h_3676294403(TEXT("/Script/Asteroids"),
-	Z_CompiledInDeferFile_FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsGameMode_h_3676294403(TEXT("/Script/Asteroids"),
+	Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -1,11 +1,11 @@
-"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\UnrealEditor\Inc\Asteroids\UHT\AsteroidsGameMode.gen.cpp"
-/FI"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\AsteroidsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\Definitions.Asteroids.h"
-/Yu"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\AsteroidsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\AsteroidsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\AsteroidsGameMode.gen.cpp.obj"
-/sourceDependencies "C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\AsteroidsGameMode.gen.cpp.dep.json"
-@"C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\Asteroids.Shared.rsp"
+"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\UnrealEditor\Inc\Asteroids\UHT\AsteroidsGameMode.gen.cpp"
+/FI"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\AsteroidsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\Definitions.Asteroids.h"
+/Yu"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\AsteroidsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\AsteroidsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\AsteroidsGameMode.gen.cpp.obj"
+/sourceDependencies "Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\AsteroidsGameMode.gen.cpp.dep.json"
+@"Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\Win64\x64\UnrealEditor\Development\Asteroids\Asteroids.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

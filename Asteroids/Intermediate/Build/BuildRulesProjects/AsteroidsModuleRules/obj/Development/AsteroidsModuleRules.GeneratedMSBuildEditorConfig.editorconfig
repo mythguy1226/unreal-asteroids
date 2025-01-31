@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AsteroidsModuleRules
-build_property.ProjectDir = C:\Users\robbi\source\unreal-asteroids\Asteroids\Intermediate\Build\BuildRulesProjects\AsteroidsModuleRules\
+build_property.ProjectDir = Z:\IGMProfile\Documents\GitHub\unreal-asteroids\Asteroids\Intermediate\Build\BuildRulesProjects\AsteroidsModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
