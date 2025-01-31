@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"Z:\\IGMProfile\\Documents\\GitHub\\unreal-asteroids\\Asteroids\\Source\\Asteroids\\Asteroids.Build.cs",
-		"Z:\\IGMProfile\\Documents\\GitHub\\unreal-asteroids\\Asteroids\\Source\\Asteroids.Target.cs",
-		"Z:\\IGMProfile\\Documents\\GitHub\\unreal-asteroids\\Asteroids\\Source\\AsteroidsEditor.Target.cs"
+		"E:\\Github Repos\\unreal-asteroids\\Asteroids\\Source\\Asteroids\\Asteroids.Build.cs",
+		"E:\\Github Repos\\unreal-asteroids\\Asteroids\\Source\\Asteroids.Target.cs",
+		"E:\\Github Repos\\unreal-asteroids\\Asteroids\\Source\\AsteroidsEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

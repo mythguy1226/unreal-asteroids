@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeAsteroids_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x29B4C259,
+				0x794DA371,
 				0x4D83A87C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeAsteroids_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Asteroids.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Asteroids(Z_Construct_UPackage__Script_Asteroids, TEXT("/Script/Asteroids"), Z_Registration_Info_UPackage__Script_Asteroids, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x29B4C259, 0x4D83A87C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Asteroids(Z_Construct_UPackage__Script_Asteroids, TEXT("/Script/Asteroids"), Z_Registration_Info_UPackage__Script_Asteroids, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x794DA371, 0x4D83A87C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

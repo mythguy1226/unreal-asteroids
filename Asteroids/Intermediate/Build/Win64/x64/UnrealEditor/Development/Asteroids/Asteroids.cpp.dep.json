@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "z:\\igmprofile\\documents\\github\\unreal-asteroids\\asteroids\\source\\asteroids\\asteroids.cpp",
+        "Source": "e:\\github repos\\unreal-asteroids\\asteroids\\source\\asteroids\\asteroids.cpp",
         "ProvidedModule": "",
-        "PCH": "z:\\igmprofile\\documents\\github\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\asteroidseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "e:\\github repos\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\asteroidseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "z:\\igmprofile\\documents\\github\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asteroids\\definitions.asteroids.h",
-            "z:\\igmprofile\\documents\\github\\unreal-asteroids\\asteroids\\source\\asteroids\\asteroids.h"
+            "e:\\github repos\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asteroids\\definitions.asteroids.h",
+            "e:\\github repos\\unreal-asteroids\\asteroids\\source\\asteroids\\asteroids.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
