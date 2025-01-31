@@ -7,16 +7,17 @@
 			"files": [
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Levels/Asteroids.umap",
-				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/BP_AsteroidsCharacter.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Player/BP_AsteroidsCharacter.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/General/BP_AsteroidsGameMode.uasset",
-				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Input/IA_MoveVertical.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Input/IMC_AsteroidsPlayer.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Input/IA_Move.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Input/IA_Shoot.uasset",
 				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Input/IA_Look.uasset",
-				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/General/E_WrapSide.uasset",
-				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/General/BP_WrapBounds.uasset"
+				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/General/BP_WrapBounds.uasset",
+				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Combat/BP_Projectile.uasset",
+				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/BP_AsteroidsCharacter.uasset",
+				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/Input/IA_MoveVertical.uasset",
+				"C:/Users/robbi/source/unreal-asteroids/Asteroids/Content/Asteroids/General/E_WrapSide.uasset"
 			]
 		}
 	]
