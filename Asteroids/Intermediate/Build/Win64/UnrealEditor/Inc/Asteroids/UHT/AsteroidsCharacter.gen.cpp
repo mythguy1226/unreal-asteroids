@@ -115,14 +115,14 @@ AAsteroidsCharacter::~AAsteroidsCharacter() {}
 // End Class AAsteroidsCharacter
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsCharacter_h_Statics
+struct Z_CompiledInDeferFile_FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AAsteroidsCharacter, AAsteroidsCharacter::StaticClass, TEXT("AAsteroidsCharacter"), &Z_Registration_Info_UClass_AAsteroidsCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAsteroidsCharacter), 1865209680U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsCharacter_h_4192306937(TEXT("/Script/Asteroids"),
-	Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Asteroids_Source_Asteroids_AsteroidsCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_4192306937(TEXT("/Script/Asteroids"),
+	Z_CompiledInDeferFile_FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
