@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ASTEROIDS_AsteroidsPlayerController_generated_h
 
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAsteroidsPlayerController(); \
 	friend struct Z_Construct_UClass_AAsteroidsPlayerController_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AAsteroidsPlayerController)
 
 
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AAsteroidsPlayerController(AAsteroidsPlayerController&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AAsteroidsPlayerController();
 
 
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_17_PROLOG
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_GENERATED_BODY \
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_17_PROLOG
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ASTEROIDS_API UClass* StaticClass<class AAsteroidsPlayerController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h
+#define CURRENT_FILE_ID FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsPlayerController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

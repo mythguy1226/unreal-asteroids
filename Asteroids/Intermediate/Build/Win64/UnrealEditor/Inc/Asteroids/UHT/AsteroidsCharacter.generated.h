@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ASTEROIDS_AsteroidsCharacter_generated_h
 
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAsteroidsCharacter(); \
 	friend struct Z_Construct_UClass_AAsteroidsCharacter_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AAsteroidsCharacter)
 
 
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AAsteroidsCharacter(AAsteroidsCharacter&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AAsteroidsCharacter();
 
 
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_9_PROLOG
-#define FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_GENERATED_BODY \
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_9_PROLOG
+#define FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ASTEROIDS_API UClass* StaticClass<class AAsteroidsCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Github_Repos_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h
+#define CURRENT_FILE_ID FID_Users_robbi_source_unreal_asteroids_Asteroids_Source_Asteroids_AsteroidsCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

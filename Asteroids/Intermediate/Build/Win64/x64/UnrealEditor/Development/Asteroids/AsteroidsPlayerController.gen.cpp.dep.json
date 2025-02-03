@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\github repos\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\unrealeditor\\inc\\asteroids\\uht\\asteroidsplayercontroller.gen.cpp",
+        "Source": "c:\\users\\robbi\\source\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\unrealeditor\\inc\\asteroids\\uht\\asteroidsplayercontroller.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\github repos\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\asteroidseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\robbi\\source\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\asteroidseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "e:\\github repos\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asteroids\\definitions.asteroids.h",
-            "e:\\github repos\\unreal-asteroids\\asteroids\\source\\asteroids\\asteroidsplayercontroller.h",
-            "e:\\github repos\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\unrealeditor\\inc\\asteroids\\uht\\asteroidsplayercontroller.generated.h"
+            "c:\\users\\robbi\\source\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asteroids\\definitions.asteroids.h",
+            "c:\\users\\robbi\\source\\unreal-asteroids\\asteroids\\source\\asteroids\\asteroidsplayercontroller.h",
+            "c:\\users\\robbi\\source\\unreal-asteroids\\asteroids\\intermediate\\build\\win64\\unrealeditor\\inc\\asteroids\\uht\\asteroidsplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
